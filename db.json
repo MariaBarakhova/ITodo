@@ -1,0 +1,43 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "work"      
+    },
+    {
+      "id": 2,
+      "name": "school"      
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "description": "some comment",
+      "checked": true,
+      "listname": "work"
+
+    },
+    {
+      "id": 2,
+      "description": "some comment",
+      "checked": false,
+      "listname": "work"
+
+    },
+    {
+      "id": 3,
+      "description": "some comment",
+      "checked": true,
+      "listname": "school"
+
+    },
+    {
+      "id": 4,
+      "description": "some comment",
+      "checked": false,
+      "listname": "school"
+
+    }
+  ]
+  
+}
